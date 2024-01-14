@@ -36,7 +36,7 @@ class weapon{
     }
 
     void show(){
-        System.out.println("Weapon : " + name + " \nAttack Power : " + attackPower);
+        System.out.println("Weapon :  " + name + " \nAttack Power : " + attackPower);
     }
 }
 
